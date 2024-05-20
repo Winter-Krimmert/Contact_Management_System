@@ -1,0 +1,10 @@
+In my Contact Management System. We have several key features that are implemented to manage the system.
+first and foremost there is adding a contact to the system. 
+Here you can enter in a name, phone number and email for a particular contact.
+Once you have entered a new contact we can then edit the contact name, phone number and email.
+There is the option to delete a contact.
+The option to search for a contact based on the name is there if you would like to locate a specific contact.
+You can choose to view all contacts. 
+If the export menu option is selected, you can export to a pre-named file.
+Importing can be done from a txt file. 
+Quitting the app is as simple as selecting the quit option in the user interface.
